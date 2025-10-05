@@ -116,7 +116,7 @@ If you use this code in your research or teaching, please cite:
 
 ```
 Nsofu, M. (2025). K-means vs Gaussian Mixture Model Clustering Comparison. 
-GitHub repository: https://github.com/[your-username]/[repo-name]
+GitHub repository: https://github.com/RProDigest/Predictive-Modeling-Week8
 ```
 
 ## 📖 References
